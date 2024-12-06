@@ -116,8 +116,6 @@ const AddGuestNext = () => {
       }
     };
 
-    console.log("Payload being sent to the server:", JSON.stringify(payload));
-
   /**
   * Note: Change the IP address in the axios URL to match your backend server's IP address and port.
   */
